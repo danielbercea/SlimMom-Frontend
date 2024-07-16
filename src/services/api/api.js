@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-axios.defaults.baseURL = 'http://localhost:3000/SlimMom';
+axios.defaults.baseURL = 'http://localhost:3000/SlimMom-Frontend';
 // const API_KEY = '';
 
 const END_POINTS = {

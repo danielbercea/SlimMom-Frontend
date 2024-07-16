@@ -125,7 +125,7 @@ const LoginPage = () => {
                   Register
                 </Button>
               </div>
-              <ButtonGoogle href="http://localhost:3000/SlimMom/api/auth/google-login">
+              <ButtonGoogle href="http://localhost:3000/SlimMom-Frontend/api/auth/google-login">
                 log in Google
               </ButtonGoogle>
             </ButtonWrapper>
